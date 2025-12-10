@@ -3,7 +3,7 @@
 A simple static Ecommerce frontend built with HTML, CSS and JavaScript. This repository provides a minimal storefront UI you can use as a starting point for learning frontend development, prototyping, or integrating with a backend/API.
 
 Live demo
-- Repository: https://github.com/piyush2004parate/Ecommerce
+- Repository: https://github.com/tejasparate1611/E-Commerce
 
 Features
 - Product listing and product detail pages (static)
@@ -21,7 +21,7 @@ Technologies
 Getting started (run locally)
 1. Clone the repository:
    ```
-   git clone https://github.com/piyush2004parate/Ecommerce.git
+   git clone https://https://github.com/tejasparate1611/E-Commerce
    cd Ecommerce
    ```
 2. Open index.html in your browser:
@@ -53,7 +53,7 @@ How to customize
 Deploying to GitHub Pages
 1. Commit your changes and push to the `main` (or chosen) branch.
 2. In the repository settings > Pages, set the source to the branch (main) and root (/) folder.
-3. Save; the site will be published at https://piyush2004parate.github.io/Ecommerce/ (URL may take a few minutes to become available).
+3. Save; the site will be published at https://https://github.com/tejasparate1611/E-Commerce (URL may take a few minutes to become available).
 
 Suggestions & next steps
 - Add a backend or API (Node/Express, Firebase, or a headless CMS) to store products and orders.
@@ -71,7 +71,7 @@ License
 This repository currently does not include a license file. If you want others to use or contribute under permissive terms, consider adding an MIT or Apache-2.0 LICENSE file.
 
 Contact
-- Maintainer: piyush2004parate (https://github.com/piyush2004parate)
+- Maintainer: tejasparate1611 (https://https://github.com/tejasparate1611/E-Commerce)
 - Open an issue or PR in this repository if you'd like improvements, fixes, or help integrating features.
 
 Thank you for visiting — if you'd like, I can create and open a PR adding this README.md to the repository for you.
